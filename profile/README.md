@@ -9,14 +9,12 @@ Our team has been involved in different aspects of numerous major projects such 
 
 We also develop a comprehensive set of powerful and efficient tools that are important when it comes to scalability, maintaining high uptime and providing a good user experience: 
 
-- [**`Infrastructure monitoring`**]()
-- [**`Alerting`**]()
-- [**`Snapshot and state sync services`**]()
-- [**`Endpoints`**]() 
-- [**`Real-time data processing and analytics`**]()
-- [**`Endpoints`**]() 
-
-
+- **Infrastructure monitoring**
+- **Alerting**
+- **Snapshot and state sync services**
+- **Endpoints**
+- **Real-time data processing and analytics**
+- **Endpoints**
 
 Our goal is to be a reliable and trusted partner for projects, and to help them achieve success through innovative different solutions that deliver real value and impact. This involves helping to design and implement the software architecture, testing and troubleshooting the network, and providing technical guidance and support.
 
@@ -24,14 +22,14 @@ We also actively participate on the community side of every project. It takes va
 
 Our team includes experienced Software developers and DevOps engineers. Our current tech stack is:
 
-- [**`Front-end: HTML, CSS, JavaScript, React, Angular, Vue`**]()
-- [**`Back-end: Go, Python, Node.js, Ruby, Clojure`**]()
-- [**`Database: MongoDB, DynamoDB, MySQL, PostgreSQL`**]()
-- [**`Web server: Apache`**]()
-- [**`Cloud computing: AWS, Azure, Google Cloud, Hetzner, Digital Ocean, Vultr`**]()
-- [**`Containerization: Docker, Kubernetes, AWS ECS`**]()
-- [**`Configuration management: Terraform, Cloud Formation`**]()
-- [**`CI/CD tools: Jenkins, TeamCity, GithubActions`**]()
+- **`Front-end: HTML, CSS, JavaScript, React, Angular, Vue`**
+- **`Back-end: Go, Python, Node.js, Ruby, Clojure`**
+- **`Database: MongoDB, DynamoDB, MySQL, PostgreSQL`**
+- **`Web server: Apache`**
+- **`Cloud computing: AWS, Azure, Google Cloud, Hetzner, Digital Ocean, Vultr`**
+- **`Containerization: Docker, Kubernetes, AWS ECS`**
+- **`Configuration management: Terraform, Cloud Formation`**
+- **`CI/CD tools: Jenkins, TeamCity, GithubActions`**
 
 Besides technical and validator skills we also have a diverse group of skilled individuals, such as ambassadors, content creators, and moderators, who can be a huge asset to any project, as they bring a variety of benefits and expertise to the table. 
 
