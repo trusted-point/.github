@@ -21,8 +21,6 @@
 
 #### Our team includes experienced Software developers and DevOps engineers. Our current tech stack is:
 
-<img align="right" alt="LOGO" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" width="23%"  />
-
 - `Front-end: HTML, CSS, JavaScript, React, Angular, Vue`
 - `Back-end: Go, Python, Node.js, Ruby, Clojure`
 - `Database: MongoDB, DynamoDB, MySQL, PostgreSQL`
