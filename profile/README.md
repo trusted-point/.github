@@ -9,12 +9,12 @@ Our team has been involved in different aspects of numerous major projects such 
 
 We also develop a comprehensive set of powerful and efficient tools that are important when it comes to scalability, maintaining high uptime and providing a good user experience: 
 
-- [**`Infrastructure monitoring`**]()
-- [**`Alerting`**]()
-- [**`Snapshot and state sync services`**]()
-- [**`Endpoints`**]()
-- [**`Real-time data processing and analytics`**]()
-- [**`Endpoints`**]()
+- [`Infrastructure monitoring`]()
+- [`Alerting`]()
+- [`Snapshot and state sync services`]()
+- [`Endpoints`]()
+- [`Real-time data processing and analytics`]()
+- [`Endpoints`]()
 
 Our goal is to be a reliable and trusted partner for projects, and to help them achieve success through innovative different solutions that deliver real value and impact. This involves helping to design and implement the software architecture, testing and troubleshooting the network, and providing technical guidance and support.
 
