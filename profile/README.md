@@ -22,14 +22,14 @@ We also actively participate on the community side of every project. It takes va
 
 Our team includes experienced Software developers and DevOps engineers. Our current tech stack is:
 
-- [**`Front-end: HTML, CSS, JavaScript, React, Angular, Vue`**]()
-- [**`Back-end: Go, Python, Node.js, Ruby, Clojure`**]()
-- [**`Database: MongoDB, DynamoDB, MySQL, PostgreSQL`**]()
-- [**`Web server: Apache`**]()
-- [**`Cloud computing: AWS, Azure, Google Cloud, Hetzner, Digital Ocean, Vultr`**]()
-- [**`Containerization: Docker, Kubernetes, AWS ECS`**]()
-- [**`Configuration management: Terraform, Cloud Formation`**]()
-- [**`CI/CD tools: Jenkins, TeamCity, GithubActions`**]()
+- [`Front-end: HTML, CSS, JavaScript, React, Angular, Vue`]()
+- [`Back-end: Go, Python, Node.js, Ruby, Clojure`]()
+- [`Database: MongoDB, DynamoDB, MySQL, PostgreSQL`]()
+- [`Web server: Apache`]()
+- [`Cloud computing: AWS, Azure, Google Cloud, Hetzner, Digital Ocean, Vultr`]()
+- [`Containerization: Docker, Kubernetes, AWS ECS`]()
+- [`Configuration management: Terraform, Cloud Formation`]()
+- [`CI/CD tools: Jenkins, TeamCity, GithubActions`]()
 
 Besides technical and validator skills we also have a diverse group of skilled individuals, such as ambassadors, content creators, and moderators, who can be a huge asset to any project, as they bring a variety of benefits and expertise to the table. 
 
