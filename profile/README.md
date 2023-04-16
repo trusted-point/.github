@@ -1,7 +1,4 @@
-<img align="left" alt="LOGO" src="https://user-images.githubusercontent.com/83868103/232259342-792ba278-d6b7-4b6d-8398-de8f9aa4d96a.gif" width="25%"  />
-
-
-
+<img align="left" alt="LOGO" src="https://user-images.githubusercontent.com/83868103/232259411-293f0671-2afa-40fa-a0c8-b3c2cb142415.png" width="25%"  />
 
 
 #### TestnetPride is a a staking provider for PoS blockchains. We do ensure reliability, security and decentralisation that are successfully backed by an experienced team, technically advanced community from all over the world as well as dependable hosting providers. 
