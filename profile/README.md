@@ -107,7 +107,6 @@ ___
 [<img src='https://user-images.githubusercontent.com/83868103/228278125-2a8df676-1a3c-4501-b100-a413e167914c.png' alt='UPCOMING'  width='100%'>](https://github.com/testnet-pride)
 
 [<img src='https://user-images.githubusercontent.com/83868103/228056433-cb35a533-93e5-424f-85e5-b344f1cdc1b6.png' alt='APTOS'  width='24.5%'>]()
-[<img src='https://user-images.githubusercontent.com/83868103/228041114-f96eadbf-4dcb-4730-9ad2-26b5ed4f899f.png' alt='SUI'  width='24.5%'>](https://sui.io/resources-sui/testnet-wave-2-recap-the-tokenomics-suinami/)
 [<img src='https://user-images.githubusercontent.com/83868103/228055222-f878c9c2-be81-4204-874f-6058ace0a3e3.png' alt='ALEO'  width='24.5%'>]()
 [<img src='https://user-images.githubusercontent.com/83868103/228046966-8b07662f-d267-47b3-a970-0bb9671500da.png' alt='ARCHWAY'  width='24.5%'>]()
 [<img src='https://user-images.githubusercontent.com/83868103/228061011-29f14d19-ce31-441d-956c-66fa17a7dc78.png' alt='QUASAR'  width='24.5%'>]()
