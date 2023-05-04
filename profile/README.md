@@ -43,6 +43,7 @@ ___
 
 [<img src='https://user-images.githubusercontent.com/83868103/228278119-8f1fa7a2-a305-403c-ac03-d981fdebe5c6.png' alt='MAINNETS'  width='100%'>](https://github.com/testnet-pride) 
  
+[<img src='https://user-images.githubusercontent.com/83868103/228041114-f96eadbf-4dcb-4730-9ad2-26b5ed4f899f.png' alt='SUI'  width='24.5%'>](https://explorer.sui.io/validator/0xad1ca3844353d0c1b86fea2d848fda0c62439168c29e132ef17f9964a19a551f) 
 [<img src='https://user-images.githubusercontent.com/83868103/228052390-d4079760-a01f-4dbe-9518-b7df757e2cdc.png' alt='UMEE'  width='24.5%'>](https://www.mintscan.io/umee/validators/umeevaloper1afdwxpgnqwz002ynkqtu6vxnyqpqymrr4r8apr)
 [<img src='https://user-images.githubusercontent.com/83868103/228058129-db51d83b-816b-42a4-8300-8db430f17fcf.png' alt='QUICKSILVER'  width='24.5%'>](https://www.mintscan.io/quicksilver/validators/quickvaloper185lq8jkc70ya6hxkcrzye5l85u6plefuf0eqet)
 [<img src='https://user-images.githubusercontent.com/83868103/228076928-595e5902-5c2a-4e63-813a-25c4a01a1da4.png' alt='FORTA'  width='24.5%'>](https://app.forta.network/nodePool/102/)
