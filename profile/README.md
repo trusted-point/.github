@@ -1,7 +1,7 @@
 <img align="left" alt="LOGO" src="https://user-images.githubusercontent.com/83868103/232259411-293f0671-2afa-40fa-a0c8-b3c2cb142415.png" width="25%"  />
 
 
-#### TestnetPride is a a staking provider for PoS blockchains. We do ensure reliability, security and decentralisation that are successfully backed by an experienced team, technically advanced community from all over the world as well as dependable hosting providers. 
+#### TrustedPoint is a a staking provider for PoS blockchains. We do ensure reliability, security and decentralisation that are successfully backed by an experienced team, technically advanced community from all over the world as well as dependable hosting providers. 
 
 #### Our team includes experienced Software developers, DevOps engineers, community managers, technical moderators as well as talented designers and ambassadors.
 
